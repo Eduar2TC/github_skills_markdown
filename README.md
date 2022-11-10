@@ -278,3 +278,10 @@ Get help: [Post in our discussion board](https://github.com/skills/.github/discu
 ## Bla bla
 ### Bla bla bla
 #### Bla bla bla bla
+##### Image
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+###### Code example
+```
+$ git init
+Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
+```
